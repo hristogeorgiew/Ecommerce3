@@ -1,0 +1,18 @@
+[
+    {
+        "name" : "SanDisk Ultra 128GB SDXC UHS-I Memory card up to 80MB/s",
+        "price" : "45.89",
+        "description" : "The SanDisk Ultra USB 3.0 Flash Drive combines faster data speeds and generous capacity in a compact, stylish package. Spend less time waiting and transfer files to the drive up to ten times faster than with a standard USB 2.0 drive.1 With storage capacities up to 512GB5, the drive can accommodate your bulkiest media files and documents.",
+        "ratings" : "4.5",
+        "images" : [{
+            "public_id" : "products:zzzzzzzzzzzz",
+            "url" : "https://m.media-amazon.com/images/I/71V7kZtZNeL._SX679_.jpg"
+
+        }],
+        "category" : "Electronics",
+        "seller" : "Ebay",
+        "stock" : "50",
+        "numOfReviews" : 32,
+        "reviews" : []
+    }
+]
